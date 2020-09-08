@@ -3,6 +3,10 @@
     padding-right: 2px;
 }
 
+.bg-teal{
+    background-color: #02bcb6;
+}
+
 div.border-bottom-1{
     border-bottom: 3px solid;
     border-bottom-color: #04babe ;
